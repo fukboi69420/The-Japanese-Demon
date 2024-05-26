@@ -41,6 +41,9 @@
 2. **Body Kits and Spoilers**
    - Enhance the visual appeal and aerodynamics of your car.
    - Brands: Duraflex, Mugen, HFP (Honda Factory Performance).
+  
+   - Type-R badges
+   - [EBAY](https://www.ebay.com/itm/126496366441?fits=Make%3AHonda&itmmeta=01HYSTDTJ2QAXMGZHYEADWED4Y&hash=item1d73c55f69%3Ag%3AItIAAOSw3stmTALN&itmprp=enc%3AAQAJAAAA4NaTGLbp9bjV60FsnWbTN3%2FVCYtjClNGcnHVkYxvfsxb2dwXPLqqGckDPcHMPpKlUIpYAGKAnvKkYGXEBZCLtaAe141v3DKSfLO%2FNQ19FJpg%2FeL35%2BUZ292gGT5fp8pAbQzM6cJBrzpEdCy7lAZpFFNYVJq9CkU9MnVCkr92%2BJ0dJXPkjnrSr0LGG2FxZ7OWor1bzML2Q5VEjlgQ5FTd7vHjG%2FQguqiaz7Di5vp8JZvBtaczuXxbem%2Bwes9%2BtOv45vTKe9ZzB6H0NxrbAmvkuMnZxtoZFKikjmvGpCHLu4tS%7Ctkp%3ABFBMjqm3uvZj&LH_BIN=1)
 
 3. **Lighting Upgrades**
    - Installing HID or LED headlights, fog lights, and taillights can improve visibility and modernize the car's look.
