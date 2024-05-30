@@ -9,7 +9,7 @@
 
 1. **Cold Air Intake (CAI)**
    - Improves air flow to the engine, potentially increasing horsepower and throttle response.
-   - [EBAY](https://www.ebay.com/itm/113192390842?itmmeta=01HZ3WPJCVYFBXH23HVDR1YMQW&hash=item1a5acad0ba:g:FrgAAOSwpwBjwQWa&itmprp=enc%3AAQAJAAAA4PyL5ooeZ3W8ikmlqgaGSpJ2FWs4fBOiKTBBujsjN8UBReHtJwORPmvQownimynBS9dOIdbgSYRA153xlzjX3B1wtHHRbFCGN6%2F%2BHHxUXyA4XB%2Bim3veutj06Lf80swY51juNU0TU%2Fz8yx7w3XDnrnrZI6E8MMsbwvapqssxqzHZiFoNQ1BJIce%2Bf0HdOG8vveUHgTEOWLPRW%2Br8fTUp0dTno55vq2Y1s3sZnSvWxx1I1wzqBvfnF5rYqGYbaGQMAhqdT1TLpfxDIt4smXY1lmojKSqQBL%2FVUSF%2BBuOKeqBG%7Ctkp%3ABFBMvKba_Phj) ![Yellow](https://via.placeholder.com/15/FFFF00/000000?text=+)
+   - Brand: socalintakes [EBAY](https://www.ebay.com/itm/113192390842?itmmeta=01HZ3WPJCVYFBXH23HVDR1YMQW&hash=item1a5acad0ba:g:FrgAAOSwpwBjwQWa&itmprp=enc%3AAQAJAAAA4PyL5ooeZ3W8ikmlqgaGSpJ2FWs4fBOiKTBBujsjN8UBReHtJwORPmvQownimynBS9dOIdbgSYRA153xlzjX3B1wtHHRbFCGN6%2F%2BHHxUXyA4XB%2Bim3veutj06Lf80swY51juNU0TU%2Fz8yx7w3XDnrnrZI6E8MMsbwvapqssxqzHZiFoNQ1BJIce%2Bf0HdOG8vveUHgTEOWLPRW%2Br8fTUp0dTno55vq2Y1s3sZnSvWxx1I1wzqBvfnF5rYqGYbaGQMAhqdT1TLpfxDIt4smXY1lmojKSqQBL%2FVUSF%2BBuOKeqBG%7Ctkp%3ABFBMvKba_Phj) ![Yellow](https://via.placeholder.com/15/FFFF00/000000?text=+)
    
 2. **Exhaust System**
    - Mandrel Exhaust.
@@ -48,7 +48,7 @@
    - Brands: Duraflex, Mugen, HFP (Honda Factory Performance). ![Red](https://via.placeholder.com/15/FF0000/000000?text=+)
 
    - Type-R badges
-   - [EBAY](https://www.ebay.com/itm/387020282293?itmmeta=01HZ3WKKX25WM2EQ8CSDKPMPSP&hash=item5a1c34d9b5:g:5yMAAOSwkZxlVI2h&itmprp=enc%3AAQAJAAAA4NZmjSrLHMMIYShtNKE9UobgrQvjwUJtGkLgXMmBlvzEnZcl2K%2FDccvb8Fwp%2Bl0rItZZEM70pY2fQ8XCWfmQeBYRiokg5Zn1ouEnnZnR1yXW8UlsJZfZYXxB8EA9GcXEVLZ3lK6pmydeirp1J5JMb7ujbZfOmDd2zR55Af7SBuBoeJWDqDajA4vtcdR2zrYbnR06akaeKRjp52x0GiWy%2FRNnGkl98SMVjr2LqIB0RuwsGC0cl6EjQyDOOe7oJMcWhQDZbcESE0ITP5nCFt%2FpgRFb0YQzBhsi5PgEalPe%2BtBI%7Ctkp%3ABFBMyL7O_Phj) ![Yellow](https://via.placeholder.com/15/FFFF00/000000?text=+)
+   - Brand: ado-0320 [EBAY](https://www.ebay.com/itm/387020282293?itmmeta=01HZ3WKKX25WM2EQ8CSDKPMPSP&hash=item5a1c34d9b5:g:5yMAAOSwkZxlVI2h&itmprp=enc%3AAQAJAAAA4NZmjSrLHMMIYShtNKE9UobgrQvjwUJtGkLgXMmBlvzEnZcl2K%2FDccvb8Fwp%2Bl0rItZZEM70pY2fQ8XCWfmQeBYRiokg5Zn1ouEnnZnR1yXW8UlsJZfZYXxB8EA9GcXEVLZ3lK6pmydeirp1J5JMb7ujbZfOmDd2zR55Af7SBuBoeJWDqDajA4vtcdR2zrYbnR06akaeKRjp52x0GiWy%2FRNnGkl98SMVjr2LqIB0RuwsGC0cl6EjQyDOOe7oJMcWhQDZbcESE0ITP5nCFt%2FpgRFb0YQzBhsi5PgEalPe%2BtBI%7Ctkp%3ABFBMyL7O_Phj) ![Yellow](https://via.placeholder.com/15/FFFF00/000000?text=+)
 
 3. **Lighting Upgrades**
    - Installing HID or LED headlights, fog lights, and taillights can improve visibility and modernize the car's look.
