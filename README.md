@@ -47,6 +47,7 @@
    - Enhance the visual appeal and aerodynamics of your car.
    - Brands: Duraflex, Mugen, HFP (Honda Factory Performance). ![Red](https://via.placeholder.com/15/FF0000/000000?text=+)
 
+   - remove old badges ![Green](https://via.placeholder.com/15/00FF00/000000?text=+)
    - Type-R badges
    - Brand: ado-0320 [EBAY](https://www.ebay.com/itm/387020282293?itmmeta=01HZ3WKKX25WM2EQ8CSDKPMPSP&hash=item5a1c34d9b5:g:5yMAAOSwkZxlVI2h&itmprp=enc%3AAQAJAAAA4NZmjSrLHMMIYShtNKE9UobgrQvjwUJtGkLgXMmBlvzEnZcl2K%2FDccvb8Fwp%2Bl0rItZZEM70pY2fQ8XCWfmQeBYRiokg5Zn1ouEnnZnR1yXW8UlsJZfZYXxB8EA9GcXEVLZ3lK6pmydeirp1J5JMb7ujbZfOmDd2zR55Af7SBuBoeJWDqDajA4vtcdR2zrYbnR06akaeKRjp52x0GiWy%2FRNnGkl98SMVjr2LqIB0RuwsGC0cl6EjQyDOOe7oJMcWhQDZbcESE0ITP5nCFt%2FpgRFb0YQzBhsi5PgEalPe%2BtBI%7Ctkp%3ABFBMyL7O_Phj) ![Yellow](https://via.placeholder.com/15/FFFF00/000000?text=+)
 
@@ -77,3 +78,7 @@
 4. **Engine Dress-Up Kits**
    - Enhance the appearance of your engine bay with colored or polished components.
    - Brands: Mishimoto, Skunk2. ![Red](https://via.placeholder.com/15/FF0000/000000?text=+)
+  
+5. **Cleaning**
+   -   Washing outside ![Green](https://via.placeholder.com/15/00FF00/000000?text=+)
+   -   vacuuming inside ![Green](https://via.placeholder.com/15/00FF00/000000?text=+)
